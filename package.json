@@ -12,6 +12,7 @@
   },
   "author": "nicholijin",
   "license": "MIT",
+  "private": false,
   "bugs": {
     "url": "https://github.com/nicholidev/ecomentor-starter/issues"
   },
