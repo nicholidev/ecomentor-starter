@@ -1,0 +1,19 @@
+{
+  "name": "@nicholijin/ecomentor-starter",
+  "version": "1.0.1",
+  "description": "ecomentor-starter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicholidev/ecomentor-starter.git"
+  },
+  "author": "nicholijin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nicholidev/ecomentor-starter/issues"
+  },
+  "homepage": "https://github.com/nicholidev/ecomentor-starter#readme"
+}
